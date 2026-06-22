@@ -39,7 +39,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap)
 
-> Replace `Kritiman_Singh` with your LeetCode handle to activate stats card.
+> Replace `kritiman_singh` with your LeetCode handle to activate stats card.
 
 ---
 
