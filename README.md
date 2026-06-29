@@ -66,6 +66,7 @@ Made with ☕ and persistence
 ## Array
 |  |
 | ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kritiman-Singh/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kritiman-Singh/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kritiman-Singh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -97,4 +98,8 @@ Made with ☕ and persistence
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kritiman-Singh/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kritiman-Singh/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
