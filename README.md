@@ -71,6 +71,7 @@ Made with ☕ and persistence
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kritiman-Singh/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kritiman-Singh/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kritiman-Singh/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Kritiman-Singh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Kritiman-Singh/DSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kritiman-Singh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -78,6 +79,7 @@ Made with ☕ and persistence
 | ------- |
 | [0001-two-sum](https://github.com/Kritiman-Singh/DSA/tree/master/0001-two-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kritiman-Singh/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Kritiman-Singh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kritiman-Singh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -111,6 +113,7 @@ Made with ☕ and persistence
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kritiman-Singh/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Kritiman-Singh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Kritiman-Singh/DSA/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -120,6 +123,7 @@ Made with ☕ and persistence
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kritiman-Singh/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Kritiman-Singh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -132,6 +136,7 @@ Made with ☕ and persistence
 ## Graph Theory
 |  |
 | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Kritiman-Singh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Kritiman-Singh/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
