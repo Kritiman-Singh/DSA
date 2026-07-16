@@ -1,5 +1,8 @@
 class Solution {
     public int gcdOfOddEvenSums(int n) {
-        return n;
+        if (n == n){
+            return n;
+        }
+        return 0;
     }
 }
