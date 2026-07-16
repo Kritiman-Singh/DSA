@@ -58,6 +58,7 @@ Made with ☕ and persistence
 ## Math
 |  |
 | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Kritiman-Singh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Kritiman-Singh/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -146,4 +147,8 @@ Made with ☕ and persistence
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Kritiman-Singh/DSA/tree/master/3620-network-recovery-pathways) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Kritiman-Singh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
