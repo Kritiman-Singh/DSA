@@ -69,6 +69,7 @@ Made with ☕ and persistence
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kritiman-Singh/DSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kritiman-Singh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kritiman-Singh/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kritiman-Singh/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kritiman-Singh/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -151,4 +152,8 @@ Made with ☕ and persistence
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kritiman-Singh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kritiman-Singh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
