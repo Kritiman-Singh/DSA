@@ -60,6 +60,7 @@ Made with ☕ and persistence
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kritiman-Singh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Kritiman-Singh/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kritiman-Singh/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Made with ☕ and persistence
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kritiman-Singh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Kritiman-Singh/DSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kritiman-Singh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kritiman-Singh/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
