@@ -115,6 +115,7 @@ Made with ☕ and persistence
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kritiman-Singh/DSA/tree/master/0020-valid-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kritiman-Singh/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
 |  |
@@ -168,4 +169,12 @@ Made with ☕ and persistence
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Kritiman-Singh/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kritiman-Singh/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kritiman-Singh/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
