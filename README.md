@@ -71,6 +71,7 @@ Made with ☕ and persistence
 | ------- |
 | [0001-two-sum](https://github.com/Kritiman-Singh/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kritiman-Singh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Kritiman-Singh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0283-move-zeroes](https://github.com/Kritiman-Singh/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Kritiman-Singh/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kritiman-Singh/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -84,6 +85,7 @@ Made with ☕ and persistence
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kritiman-Singh/DSA/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Kritiman-Singh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Kritiman-Singh/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kritiman-Singh/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kritiman-Singh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -131,6 +133,7 @@ Made with ☕ and persistence
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Kritiman-Singh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kritiman-Singh/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kritiman-Singh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
