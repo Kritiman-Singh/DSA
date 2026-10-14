@@ -5,7 +5,7 @@ class Solution {
 
         HashSet<Integer> set = new HashSet<>();
 
-        // Put every number into the set
+       
         for (int num : nums) {
             set.add(num);
         }
@@ -13,9 +13,6 @@ class Solution {
         int longest = 0;
 
         for (int num : set) {
-
-            // Only start counting if num is the beginning
-            // of a consecutive sequence
             if (!set.contains(num - 1)) {
 
                 int current = num;
