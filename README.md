@@ -58,6 +58,7 @@ Made with ☕ and persistence
 ## Math
 |  |
 | ------- |
+| [2235-add-two-integers](https://github.com/Kritiman-Singh/DSA/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kritiman-Singh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Kritiman-Singh/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kritiman-Singh/DSA/tree/master/3875-construct-uniform-parity-array-i) |
