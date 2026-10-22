@@ -59,6 +59,7 @@ Made with ☕ and persistence
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Kritiman-Singh/DSA/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/Kritiman-Singh/DSA/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/Kritiman-Singh/DSA/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kritiman-Singh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Kritiman-Singh/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -164,6 +165,7 @@ Made with ☕ and persistence
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Kritiman-Singh/DSA/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kritiman-Singh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
@@ -183,4 +185,8 @@ Made with ☕ and persistence
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kritiman-Singh/DSA/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Kritiman-Singh/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
