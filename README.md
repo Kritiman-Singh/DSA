@@ -58,6 +58,7 @@ Made with ☕ and persistence
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Kritiman-Singh/DSA/tree/master/0066-plus-one) |
 | [2235-add-two-integers](https://github.com/Kritiman-Singh/DSA/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kritiman-Singh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Kritiman-Singh/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -72,6 +73,7 @@ Made with ☕ and persistence
 | ------- |
 | [0001-two-sum](https://github.com/Kritiman-Singh/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kritiman-Singh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Kritiman-Singh/DSA/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/Kritiman-Singh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0283-move-zeroes](https://github.com/Kritiman-Singh/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Kritiman-Singh/DSA/tree/master/0349-intersection-of-two-arrays) |
