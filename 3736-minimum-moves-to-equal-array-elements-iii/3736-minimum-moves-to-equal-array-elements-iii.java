@@ -3,7 +3,7 @@ class Solution {
 
         int n = nums.length;
         int first = nums[0];
-        int min = Integer.MIN_VALUE;
+       // int min = Integer.MIN_VALUE;
         for(int i = 0 ; i < n ; i++){
             if(nums[i] > first){
                 first = nums[i];
