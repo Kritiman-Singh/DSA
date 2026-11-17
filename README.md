@@ -68,6 +68,7 @@ Made with ☕ and persistence
 ## Dynamic Programming
 |  |
 | ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kritiman-Singh/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3620-network-recovery-pathways](https://github.com/Kritiman-Singh/DSA/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Kritiman-Singh/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
@@ -125,6 +126,7 @@ Made with ☕ and persistence
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kritiman-Singh/DSA/tree/master/0020-valid-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kritiman-Singh/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kritiman-Singh/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,6 +177,7 @@ Made with ☕ and persistence
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kritiman-Singh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Kritiman-Singh/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Kritiman-Singh/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kritiman-Singh/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
