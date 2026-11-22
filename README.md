@@ -126,6 +126,7 @@ Made with ☕ and persistence
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kritiman-Singh/DSA/tree/master/0020-valid-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kritiman-Singh/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Kritiman-Singh/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kritiman-Singh/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Binary Search
 |  |
