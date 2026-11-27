@@ -3,7 +3,6 @@ class Solution {
         int n = items.length;
         int mn = Integer.MAX_VALUE;
         for (int[] it : items) mn = Math.min(mn, it[1]);
-
         int[] f = new int[budget + 1];
 
         for (int[] it : items) {
