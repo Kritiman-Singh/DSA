@@ -71,6 +71,7 @@ Made with ☕ and persistence
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kritiman-Singh/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3620-network-recovery-pathways](https://github.com/Kritiman-Singh/DSA/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Kritiman-Singh/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Kritiman-Singh/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Array
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Made with ☕ and persistence
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kritiman-Singh/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kritiman-Singh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kritiman-Singh/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Kritiman-Singh/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,4 +197,8 @@ Made with ☕ and persistence
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Kritiman-Singh/DSA/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Kritiman-Singh/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->
